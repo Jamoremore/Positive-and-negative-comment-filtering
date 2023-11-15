@@ -1,5 +1,7 @@
 # 正负评论分析
 
+采用'bert-base-chinese'预训练模型做评论分类，分为0,negative;1,neutral;2,positive;三个类别。
+
 ## 文件结构
 
 | 文件名                 | 功能     |
